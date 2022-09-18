@@ -1,0 +1,1 @@
+para rodar use npm run dev
